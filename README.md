@@ -76,3 +76,8 @@ To get the project running on a local machine use the following steps:
 The data from Pearmund Cellars was licences exclusively for the use within the project and therefore is not uploaded to GitHub
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Professor Bernard Schmidt - For guiding us through the semester and providing valuable insight and advice towards teh completion of this project
+* Our partners, Chris Pearmund & John Memoli - For graciously teaching us all they could about winemaking and the business, being wonderful to work with and providing everything the team needed to suceed
