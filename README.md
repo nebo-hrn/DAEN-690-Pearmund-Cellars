@@ -17,6 +17,9 @@ To ensure privacy all proprietary data has been stripped from the dashboard. Exa
 
 Numerous Business Intelligence tools were created using VBA scripts and button controls, both native to Excel. The various scripts utilize user selections from drop-down lists to make proper selections on which dataset to use. These scripts also perform the necessary calculations and out the results in either a table or graph for easy visualization.
 
+The VBA scripts for each BI tool are included seperatly from the dashboard in the "VBA Scripts" folder.
+
 #### Demand & Production Pipeline
 
-The Demand & Production Pipeline
+The Demand & Production Pipeline using historical case movement data fed into an ARIMA model to predict demand. This demand value is then adjusted based on existing inventory levels and a desired months left of inventory range. 
+To implement an ARIMA model, the VBA script calls the Python executable to run a Python script containing the model. This code queries the correct data, validates it, runs the model and then outputs results back to Excel. 
