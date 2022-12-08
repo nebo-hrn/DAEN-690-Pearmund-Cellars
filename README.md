@@ -75,4 +75,4 @@ To get the project running on a local machine use the following steps:
 
 The data from Pearmund Cellars was licences exclusively for the use within the project and therefore is not uploaded to GitHub
 
-This project is licensed under the 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
