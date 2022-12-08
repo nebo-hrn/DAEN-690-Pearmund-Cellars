@@ -33,3 +33,10 @@ This code is detailed both in the "VBA Scripts" folder as well as the "Python" f
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+### Prerequisites
+
+Note that this project was designed to run on Windows OS due to the feature limitations seen in MacOS versions of Excel.
+
+You will need the following software to run this project on your machine:
+
+[Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - The framework of the project, any version after 2016 will suffice
