@@ -15,4 +15,8 @@ To ensure privacy all proprietary data has been stripped from the dashboard. Exa
 
 #### Business Intelligence
 
-Numerous Business Intelligence tools were created using VBA scripts and button controls, both native to Excel. The various scripts utilize user selections from drop-down lists to make proper selections on which dataset to use. These scripts also perform the necessary calculations 
+Numerous Business Intelligence tools were created using VBA scripts and button controls, both native to Excel. The various scripts utilize user selections from drop-down lists to make proper selections on which dataset to use. These scripts also perform the necessary calculations and out the results in either a table or graph for easy visualization.
+
+#### Demand & Production Pipeline
+
+The Demand & Production Pipeline
