@@ -7,12 +7,12 @@ To accomplish this a Wine Production Dashobard was created with Excel. This dash
 * Numerous business intelligence tools to draw key insights from the data and visualize them through tables and graphs.
 * A pipeline to predict demand for their wines as well as to adjust the values based on the existing business situtation and inventory levels to forecast production.
 
-### Database
+#### Database
 
 The database was a native function to Excel and required no extra implementation. Initial datasets were provided by the partners which were cleaned and transformed to meet the needs of the project and placed in seperate sheets on the dashboard. This allowed the dashboard to host all relevant and required data and allowed the other features to easily reference information. User input forms were also created so new data can be inputted.
 
 To ensure privacy all proprietary data has been stripped from the dashboard. Examples of valid data forms are shown in each dataset.
 
-### Business Intelligence
+#### Business Intelligence
 
 Numerous Business Intelligence tools were created using VBA scripts and button controls, both native to Excel. The various scripts utilize user selections from drop-down lists to make proper selections on which dataset to use. These scripts also perform the necessary calculations 
