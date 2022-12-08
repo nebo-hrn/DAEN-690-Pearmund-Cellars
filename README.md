@@ -5,4 +5,6 @@ As part of the Data Analytics Engineering Program at George Mason University, th
 To accomplish this a Wine Production Dashobard was created with Excel. This dashboard contains three things:
 * A database to hold historical data and a process to input new data.
 * Numerous business intelligence tools to draw key insights from the data and visualize them through tables and graphs.
-* 
+* A pipeline to predict demand for their wines as well as to adjust the values based on the existing business situtation and inventory levels to forecast production.
+
+
