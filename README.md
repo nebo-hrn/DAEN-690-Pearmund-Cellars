@@ -63,6 +63,7 @@ To get the project running on a local machine use the following steps:
 2) Download the "Wine Production Dashboard" folder which contains all files needed
 3) Open the WineProductionDashboard.xlsm and change the necessary path references relative to the local machine
 4) Repeat step 3 for the ARIMAbackend.py file
+5) Input data into the dashboard either manually or through user input forms
 
 ## Authors
 
