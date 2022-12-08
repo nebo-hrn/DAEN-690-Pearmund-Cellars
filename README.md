@@ -23,7 +23,7 @@ The VBA scripts for each BI tool are included seperatly from the dashboard in th
 
 The Demand & Production Pipeline using historical case movement data fed into an ARIMA model to predict demand. This demand value is then adjusted based on existing inventory levels and a desired months left of inventory range.
 
-To implement an ARIMA model, the VBA script calls the Python executable to run a Python script containing the model. This code queries the correct data, validates it, runs the model and then outputs results back to Excel. This process is done for a choice list of wines selected by the partners, generating 12 months of predictions. 
+To implement an ARIMA model, the VBA script calls the Python executable to run a Python script containing the model. This code queries the correct data, validates it, runs the model and then outputs results back to Excel. This process is done for a choice list of wines selected by the partners, generating 12 months of predictions. Python was needed because Excel currently does not have to ability to run ARIMA models at the speed and ease needed for this project.
 
 To adjust the predicted demand to forecast production values the total amount of predicted demand is added the current inventory level and a months left of inventory value is calculated based on average monthly case movement. If the months left value falls outside a user specifed range, the value is adjsuted so it falls within this range. This value is then the amount of wine in cases the wineries should produce in the coming season.
 
@@ -40,3 +40,5 @@ Note that this project was designed to run on Windows OS due to the feature limi
 You will need the following software to run this project on your machine:
 
 [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - The framework of the project, any version after 2016 will suffice
+
+[Python](https://www.python.org/) - Used to run the ARIMA model to predict demand, any version after 3.9 will suffice
