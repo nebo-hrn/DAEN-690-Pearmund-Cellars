@@ -64,4 +64,9 @@ To get the project running on a local machine use the following steps:
 3) Open the WineProductionDashboard.xlsm and change the necessary path references relative to the local machine
 4) Repeat step 3 for the ARIMAbackend.py file
 
+## Authors
 
+* **Nebojsa Hrnjez** - *Product Owner*
+* **Bhargav Sai Barala** - *Scrum Master*
+* **Rohan Jonnakuti** - *Developer*
+* **Kshetragna Rao Gummadapu** - *Developer*
