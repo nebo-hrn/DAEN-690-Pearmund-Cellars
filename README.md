@@ -42,3 +42,15 @@ You will need the following software to run this project on your machine:
 [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - The framework of the project, any version after 2016 will suffice
 
 [Python](https://www.python.org/) - Used to run the ARIMA model to predict demand, any version after 3.9 will suffice
+
+Within Python the following packages need to be installed:
+- pandas
+- numpy
+- datetime
+- tqdm
+- sklearn
+- scipy
+- dateutil
+- openpyxl
+- pmdarima
+- sys
