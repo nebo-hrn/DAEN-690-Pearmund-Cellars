@@ -1,125 +1,0 @@
-Merlot\
-Cab Sauv\
-Viognier\
-Chardonnay\
-Cab Franc\
-Cab Franc Res\
-Merlot\
-Petit Verdot\
-Ameritage\
-Ameritage Res\
-Petit Manseng\
-Malbec Res\
-Black Ops\
-Farm Use\
-Riesling\
-Viognier Res\
-Malbec\
-Wine Club Rose\
-Vidal Blanc\
-Wine Club Sauv Blanc\
-LH Viognier\
-Petit Verdot Reserve\
-LH Tannat\
-Vin de Sol (88 cs/pallet)\
-Farm Use White\
-Farm Use Red\
-Va's Heritage\
-Cab Sauv Reserve\
-Tugs Cuvee\
-Pinot Gris\
-Sparlking Wine\
-\
-Cameo Rose\
-Palindrome\
- \
-Wine Club Rose 3L Bag\
-Sparlking Wine - NO TAX\
-Riesling - NO TAX TO PAY\
-Sparkling Wine\
-Sunshine\
-AMR\
-Sunshine - 1.5L Bags\
-Rose\
-Clearly White\
-Clearly Rose\
-Clearly Sangria\
-Sparkling\
-Mabec\
-Meritage\
-Tannat\
-Norton\
-King's Ransom\
-Traminette\
-Sparkling ** don't include on tax report\
-Snort\
-Tannat **Tax has been paid on all of this Tannat. 42 was originally entered and paid in March 2018/ chart has been corrected to reflect actualy inv but no more tax is due\
-Celebration\
-Cameo Rose (No Tax)\
-Celebration 3L Bag\
-Effingham Reserve\
-Celebration 1.5L\
-Reserve\
-Chambourcin Rose (VA)\
-Petit Verdot (VA)\
-Merlot (VA)\
-Cabernet Franc (VA)\
-Syrah (CA)\
-Red Blend\
-Cabernet Sauvignon (VA)\
-Norton/Cabernet Franc (VA)\
-Zinfandel (CA)\
-Petit Mansang (VA)\
-Chardonnay /Vio (VA) \
-Barrel Chardonnay (VA)\
-Sauvignon Blanc \
-Syrah (WA)\
-Red Blend \
-Chambourcin\
-Cold War Red (VA)\
-Viognier \
-Cuvee Blanc\
-Mead\
-Rose'\
-Syrah\
-Port\
-Late Harvest Chardonnay\
-Sangiovese\
-Rose of Chambourcin\
-Rose of Granache\
-Grenache, Syrah, Mourvedre\
-Cabernet Sauvignon\
-Red - Double Barrel Rsv\
-Chambourone\
-Civee Blanc\
-Sauvignon Blanc\
-Rose of Grenache\
-Cold War White\
-Syrah/Grenache\
-Grenache\
-Cabernet Franc\
-Chardonay\
-Double Barrel Reserve\
-Merlot - shiners\
-Zinfandel\
-Wine Club Syrah\
-Cold War Red - Shiners\
-Syrah (59 cases shiners)\
-Chardonnay - Barrel\
-Chardonnay - Stainless\
-GSM\
-Wine Club Red Blend\
-S & M\
-Pinot Noir\
-Chardonnay -  (Dickman)\
-Story - PV (Ward)\
-Story - CF (Ward)\
-Story - Red Blend (Ward)\
-Red Blend - (Taylor/Hayden) \
-Petit Verdot (Prewitt)\
-Red Blend - (Jung)\
-Red Blend - (Heritage/Thompson)\
-Red Blend - (Kowis/Watson)\
-Pinot Noir - (Cox)\
-Malbec/Syrah - (Stinson)\
-GSM (Kane)
