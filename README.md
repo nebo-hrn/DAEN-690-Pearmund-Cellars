@@ -70,3 +70,9 @@ To get the project running on a local machine use the following steps:
 * **Bhargav Sai Barala** - *Scrum Master*
 * **Rohan Jonnakuti** - *Developer*
 * **Kshetragna Rao Gummadapu** - *Developer*
+
+## License
+
+The data from Pearmund Cellars was licences exclusively for the use within the project and therefore is not uploaded to GitHub
+
+This project is licensed under the 
